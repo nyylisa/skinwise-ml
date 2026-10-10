@@ -1,0 +1,251 @@
+text,label
+Aloe Vera,SOOTHING
+Allantoin,SOOTHING
+Alanine,HUMECTANT
+Adenosine,SOOTHING
+Acetyl Tyrosinamide,PEPTIDE
+Acetyl Tetrapeptide,PEPTIDE
+Acetyl Glucosamine,HUMECTANT
+Acetylarginyltryptophyl Diphenylglycine,PEPTIDE
+Ascorbic Acid,VITAMIN_C
+Arginine PCA,HUMECTANT
+Arginine/Lysine Polypeptide,PEPTIDE
+Arginine HCL,HUMECTANT
+Arginine,HUMECTANT
+Argan Oil,EMOLLIENT
+Arbutin,PIGMENT_REGULATOR
+Anti-Ageing Peptides,PEPTIDE
+Amino Acids,HUMECTANT
+Beta Glucan,SOOTHING
+Bakuchiol,RETINOID
+Azelaoyl Bis-Dipeptide,PEPTIDE
+Azelaic Acid,PIGMENT_REGULATOR
+Avocado Oil,EMOLLIENT
+Avene Thermal Water,SOOTHING
+Ascorbyl Palmitate,VITAMIN_C
+Ascorbyl Glucoside,VITAMIN_C
+Caffeine,ANTIOXIDANT
+Caffeic Acid,ANTIOXIDANT
+Butyl Methoxydibenzoylmethane,UV_FILTER
+Blue Mallow Extract,SOOTHING
+Blue Lotus Extract,SOOTHING
+Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine,UV_FILTER
+Bisabolol,SOOTHING
+Cholesterol,BARRIER_SUPPORT
+Chamomile Extract,SOOTHING
+Ceramides,BARRIER_SUPPORT
+Chemical UV Filters,UV_FILTER
+Caprooyl Sphingosine,BARRIER_SUPPORT
+Centella Asiatica,SOOTHING
+Carnosine,PEPTIDE
+Caprooyl Phytosphingosine,BARRIER_SUPPORT
+Ectoin,HUMECTANT
+Dioic Acid,PIGMENT_REGULATOR
+Dipeptide Diaminobutyroyl Benzylamide Diacetate,PEPTIDE
+Dipeptide,PEPTIDE
+Copper Peptide,PEPTIDE
+Copper Palmitoyl Heptapeptide,PEPTIDE
+Copper Heptapeptide-14 Pantothenate,PEPTIDE
+Coffee Seed Extract,ANTIOXIDANT
+Citric Acid,DIRECT_ACID
+Ginkgo Biloba,ANTIOXIDANT
+Ferulic Acid,ANTIOXIDANT
+Ethylhexyl Triazone,UV_FILTER
+Ferric Hexapeptide,PEPTIDE
+Evening Primrose Oil,EMOLLIENT
+Essential Lipids,BARRIER_SUPPORT
+Endothelyol,SOOTHING
+Ethylhexyl Salicylate,UV_FILTER
+Ethyl Ascorbic Acid,VITAMIN_C
+Green Tea,ANTIOXIDANT
+Glycosphingolipids,BARRIER_SUPPORT
+Glycoproteins,BARRIER_SUPPORT
+Glycolipids,BARRIER_SUPPORT
+Golden-Eye Grass Complex,SOOTHING
+Glycolic Acid,DIRECT_ACID
+Glycine,HUMECTANT
+Gluconolactone,DIRECT_ACID
+EGCG,ANTIOXIDANT
+Hydroxypinacolone Retinoate,RETINOID
+Homosalate,UV_FILTER
+Humectants,HUMECTANT
+Horse Chestnut,SOOTHING
+Heptapeptide-15 Palmitate,PEPTIDE
+Histidine,HUMECTANT
+Lecithin,BARRIER_SUPPORT
+Lactobionic Acid,DIRECT_ACID
+L-Ascorbic Acid,VITAMIN_C
+Lactic Acid,DIRECT_ACID
+Jojoba Oil,EMOLLIENT
+Kojic Acid,PIGMENT_REGULATOR
+Isoleucine,HUMECTANT
+Magnesium Sulfate,SOOTHING
+Magnesium Ascorbyl Phosphate,VITAMIN_C
+Lysine,HUMECTANT
+Lily Extract,SOOTHING
+Linolenic Acid,BARRIER_SUPPORT
+Linoleic Acid,BARRIER_SUPPORT
+Leucine,HUMECTANT
+Licorice Extract,PIGMENT_REGULATOR
+Natural Moisturising Factors,HUMECTANT
+Naringenin Chalcone,SOOTHING
+Myristoyl Nonapeptide,PEPTIDE
+Myristol Pentapeptide,PEPTIDE
+Milk Thistle Extract,SOOTHING
+Myristol Hexapeptide,PEPTIDE
+Moringa Seed Extract,ANTIOXIDANT
+Marshmallow Root,SOOTHING
+Mineral UV Filters,UV_FILTER
+Meadowfoam Seed Oil,EMOLLIENT
+Mango Seed Butter,EMOLLIENT
+Palmitoyl Oligopeptide,PEPTIDE
+Mandelic Acid,DIRECT_ACID
+Palmitoyl Nonapeptide,PEPTIDE
+Palmitoyl Pentapeptide,PEPTIDE
+Palmitoyl Glycine,PEPTIDE
+Palmitoyl Heptapeptide,PEPTIDE
+Octocrylene,UV_FILTER
+Palmitoyl Decapeptide,PEPTIDE
+Oligopeptide,PEPTIDE
+Oat Extract,SOOTHING
+Octisalate,UV_FILTER
+Octinoxate,UV_FILTER
+Phytic Acid,DIRECT_ACID
+Perfluorodecalin,SOOTHING
+Phytosphingosine,BARRIER_SUPPORT
+Phospholipids,BARRIER_SUPPORT
+Pentapeptide,PEPTIDE
+Palmitoyl Tetrapeptide,PEPTIDE
+Retinyl Retinoate,RETINOID
+Palmitoyl Tripeptide,PEPTIDE
+Retinyl Propionate,RETINOID
+Retinyl Palmitate,RETINOID
+Retinol,RETINOID
+Resveratrol,ANTIOXIDANT
+Quercetin,ANTIOXIDANT
+Proline,HUMECTANT
+Potassium Azeloyl Diglycinate,PIGMENT_REGULATOR
+Prickly Pear Extract,SOOTHING
+Shea Butter,EMOLLIENT
+Sesame Seed Oil,EMOLLIENT
+Sh-Oligopeptide,PEPTIDE
+Serine,HUMECTANT
+Salicylic Acid,DIRECT_ACID
+Safflower Seed Oil,EMOLLIENT
+Tartaric Acid,DIRECT_ACID
+Sweet Almond Oil,EMOLLIENT
+Symsitive,PEPTIDE
+Superoxide Dismutase,ANTIOXIDANT
+Sunflower Oil,EMOLLIENT
+Spent Grain Wax,SOOTHING
+Sulfur,PIGMENT_REGULATOR
+Squalane,BARRIER_SUPPORT
+Urea,HUMECTANT
+Sodium Lactate,HUMECTANT
+Valine,HUMECTANT
+Trehalose,HUMECTANT
+Triazine Diethyl Butamidotriazone,UV_FILTER
+Thiamidol,PIGMENT_REGULATOR
+Tranexamic Acid,PIGMENT_REGULATOR
+Threonine,HUMECTANT
+Zinc Gluconate,PIGMENT_REGULATOR
+Tetrahexyldecyl Ascorbate,VITAMIN_C
+Zinc,PIGMENT_REGULATOR
+Yeast Amino Acids,HUMECTANT
+Willow Herb Extract,SOOTHING
+Willow Bark Extract,DIRECT_ACID
+Vitamin K1,ANTIOXIDANT
+Vitamin E,ANTIOXIDANT
+Vitamin C,VITAMIN_C
+Vitamin B5,HUMECTANT
+Vitamin A,RETINOID
+Tea Tree Oil,SOOTHING
+Zinc Sulfate,PIGMENT_REGULATOR
+Zinc PCA,PIGMENT_REGULATOR
+Neoglucosamine,PIGMENT_REGULATOR
+Taurine,HUMECTANT
+Sodium Ascorbyl Phosphate,VITAMIN_C
+Alpha-Glucan Oligosaccharide,NON_TARGET
+Algin,NON_TARGET
+Algae Extract,NON_TARGET
+Algae Exopolysaccharides,NON_TARGET
+Alaria Esculenta Extract,NON_TARGET
+Ahnfeltia Concinna Extract,NON_TARGET
+Acai Extract,NON_TARGET
+Ascophyllum Nodosum Extract,NON_TARGET
+Aquagenium,NON_TARGET
+Apple Stem Cells,NON_TARGET
+Apple Polyphenols,NON_TARGET
+Apple Extract,NON_TARGET
+Alteromonas Ferment Extract,NON_TARGET
+Bifida Ferment Lysate,NON_TARGET
+Avocado Ferment,NON_TARGET
+Asparagopsis Armata Extract,NON_TARGET
+Cabbage Leaf Extract,NON_TARGET
+Blueberry Extract,NON_TARGET
+Bilberry Extract,NON_TARGET
+Bio-Active Glucosides,NON_TARGET
+Chondrus Crispus,NON_TARGET
+Chlorophyll,NON_TARGET
+Chlorella Vulgaris Extract,NON_TARGET
+Chlorella Protothecoides Oil,NON_TARGET
+Chlorella Protothecoides,NON_TARGET
+Dunaliella Salina (Green Algae) Extract,NON_TARGET
+Cucumber Extract,NON_TARGET
+Cinnamon Bark,NON_TARGET
+Fomes Ofﬁcinalis (Mushroom) Extract,NON_TARGET
+Fructooligosaccharides,NON_TARGET
+Feverfew Extract,NON_TARGET
+Fernblock,NON_TARGET
+Glyceryl Glucoside,NON_TARGET
+Indian Gooseberry,NON_TARGET
+Hydrolyzed Pumpkin Seedcake,NON_TARGET
+Hydrolyzed F-Fucoidan,NON_TARGET
+Hibiscus Fruit Extract,NON_TARGET
+Guarana Extract,NON_TARGET
+L-Carnitine,NON_TARGET
+Laminaria Ochroleuca (Kelp) Extract,NON_TARGET
+Lactococcus Ferment Lysate,NON_TARGET
+Lactobacillus Ferment,NON_TARGET
+Lactobacillus Extract Filtrate,NON_TARGET
+Kola Seed Extract,NON_TARGET
+Jeju Green Tea Water,NON_TARGET
+Jojoba Beads,NON_TARGET
+Macrocystis Pyrifera (Kelp) Extract,NON_TARGET
+Luffa Cylindrica Extract,NON_TARGET
+Licochalcone A,NON_TARGET
+Mushroom Extract,NON_TARGET
+Marine Extract,NON_TARGET
+Padina Pavonica Thallus Extract,NON_TARGET
+Polyhydroxy Acids,NON_TARGET
+Porphyridium Cruentum Extract,NON_TARGET
+Polyporus Umbellatus (Mushroom) Extract,NON_TARGET
+Plankton Extract,NON_TARGET
+Palmitoyl  Tripeptide-1,NON_TARGET
+Parachlorella Beijerinckii Exopolysaccharides,NON_TARGET
+Neurophroline,NON_TARGET
+Red Algae,NON_TARGET
+Pseudoalteromonas Exopolysaccharides,NON_TARGET
+Probiotics,NON_TARGET
+Snow Mushroom Extract,NON_TARGET
+Prebiotics,NON_TARGET
+Silk Protein,NON_TARGET
+Sea Buckthorn Water,NON_TARGET
+Saskatoon Berry,NON_TARGET
+Rosemary Leaf Extract,NON_TARGET
+Saccharomyces Cerevisiae (Yeast) Extract,NON_TARGET
+Sacred Lotus Flower Extract,NON_TARGET
+Tasmanian Pepperberry Extract,NON_TARGET
+Rhamnose,NON_TARGET
+Sugar Cane Extract,NON_TARGET
+Turmeric Root Extract,NON_TARGET
+Tripleurospermum Maritimum Extract,NON_TARGET
+Tomato Stem Cells,NON_TARGET
+Teprenone,NON_TARGET
+Yerba Mate Extract,NON_TARGET
+Wild Cherry Extract,NON_TARGET
+White Tea,NON_TARGET
+Vibrio Alginolyticus Ferment Filtrate,NON_TARGET
+Niacinamide,NIACINAMIDE
+Nicotinamide,NIACINAMIDE
+Vitamin B3,NIACINAMIDE

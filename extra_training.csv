@@ -1,0 +1,69 @@
+text,label
+Aqua,NON_TARGET
+Water,NON_TARGET
+Purified Water,NON_TARGET
+Niacinamide,NIACINAMIDE
+Nicotinamide,NIACINAMIDE
+Vitamin B3,NIACINAMIDE
+Niacinamide Powder,NIACINAMIDE
+Niacinamide 10%,NIACINAMIDE
+Niacinamide Serum,NIACINAMIDE
+Nicotinic Acid,NIACINAMIDE
+Niacinamide Zinc,NIACINAMIDE
+Retinol,RETINOID
+Retinal,RETINOID
+Adapalene,RETINOID
+Adapalene Gel,RETINOID
+Tretinoin Cream,RETINOID
+Retinoic Acid,RETINOID
+Retinyl Retinoate,RETINOID
+Hydroxypinacolone Retinoate,RETINOID
+Ceramide NP,BARRIER_SUPPORT
+Ceramide AP,BARRIER_SUPPORT
+Ceramide EOP,BARRIER_SUPPORT
+Cholesterol,BARRIER_SUPPORT
+Sodium Hyaluronate,HUMECTANT
+Hyaluronan,HUMECTANT
+Glycerin,HUMECTANT
+Glycerol,HUMECTANT
+Panthenol,HUMECTANT
+Sodium PCA,HUMECTANT
+Urea,HUMECTANT
+Trehalose,HUMECTANT
+Malic Acid,DIRECT_ACID
+Capryloyl Salicylic Acid,DIRECT_ACID
+Betaine Salicylate,DIRECT_ACID
+Lactic Acid,DIRECT_ACID
+Mandelic Acid,DIRECT_ACID
+Tocopherol,ANTIOXIDANT
+Vitamin E,ANTIOXIDANT
+Green Tea Extract,ANTIOXIDANT
+EGCG,ANTIOXIDANT
+Tranexamic Acid,PIGMENT_REGULATOR
+Kojic Acid,PIGMENT_REGULATOR
+Alpha Arbutin,PIGMENT_REGULATOR
+Arbutin,PIGMENT_REGULATOR
+Matrixyl,PEPTIDE
+Argireline,PEPTIDE
+Acetyl Hexapeptide,PEPTIDE
+Palmitoyl Tripeptide,PEPTIDE
+Copper Tripeptide,PEPTIDE
+Zinc Oxide,UV_FILTER
+Titanium Dioxide,UV_FILTER
+Octocrylene,UV_FILTER
+Avobenzone,UV_FILTER
+Homosalate,UV_FILTER
+Octisalate,UV_FILTER
+Argan Oil,EMOLLIENT
+Shea Butter,EMOLLIENT
+Jojoba Oil,EMOLLIENT
+Sunflower Oil,EMOLLIENT
+Sweet Almond Oil,EMOLLIENT
+Chamomile Extract,SOOTHING
+Chamomilla Recutita,SOOTHING
+Matricaria Extract,SOOTHING
+Bisabolol,SOOTHING
+Allantoin,SOOTHING
+Centella Asiatica,SOOTHING
+Madecassoside,SOOTHING
+Aloe Vera,SOOTHING

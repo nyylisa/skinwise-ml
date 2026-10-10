@@ -1,0 +1,6 @@
+setfit
+fastapi
+uvicorn
+pydantic
+scikit-learn
+pandas
