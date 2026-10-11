@@ -1,20 +1,33 @@
+import os
+import threading
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from setfit import SetFitModel
-import os
 
 app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
-    allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-model = SetFitModel.from_pretrained("nyylisaa/skinwise-setfit-model")
+# Lazy-loaded model
+_model = None
+_model_lock = threading.Lock()
+
+
+def get_model():
+    global _model
+    if _model is None:
+        with _model_lock:
+            if _model is None:
+                print("Loading SetFit model from HF Hub...")
+                _model = SetFitModel.from_pretrained("nyylisaa/skinwise-setfit-model")
+                print("Model loaded.")
+    return _model
 
 
 class ClassifyRequest(BaseModel):
@@ -25,6 +38,7 @@ class ClassifyRequest(BaseModel):
 def classify(req: ClassifyRequest):
     if not req.ingredients:
         return {"results": []}
+    model = get_model()
     preds = model(req.ingredients)
     return {
         "results": [

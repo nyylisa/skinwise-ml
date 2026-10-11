@@ -31,12 +31,12 @@ def main():
 
     train_ds = Dataset.from_pandas(df.reset_index(drop=True))
 
-    model = SetFitModel.from_pretrained("BAAI/bge-base-en-v1.5")
+    model = SetFitModel.from_pretrained("BAAI/bge-small-en-v1.5")
 
     args = TrainingArguments(
         batch_size=16,
         num_epochs=1,
-        num_iterations=10,
+        num_iterations=5,
         eval_strategy="no",
     )
 
